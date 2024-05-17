@@ -10,7 +10,10 @@
 
 В качестве ответа в репозиторий шаблона с решением добавьте скриншоты с настройками раннера в проекте.
 
-`Приведите ответ в свободной форме........`
+![z1](https://github.com/PochikaevVV/GitLab-hw/blob/main/z1_1.png)
+![z1](https://github.com/PochikaevVV/GitLab-hw/blob/main/z1_2.png)
+![z1](https://github.com/PochikaevVV/GitLab-hw/blob/main/z1_3.png)
+![z1](https://github.com/PochikaevVV/GitLab-hw/blob/main/z1_4.png)
 
 
 ### Задание 2
