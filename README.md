@@ -26,3 +26,8 @@
 
 -    файл gitlab-ci.yml для своего проекта или вставьте код в соответствующее поле в шаблоне;
 -    скриншоты с успешно собранными сборками.
+
+
+![z2](https://github.com/PochikaevVV/GitLab-hw/blob/main/z2_1.png)
+![z2](https://github.com/PochikaevVV/GitLab-hw/blob/main/z2_2.png)
+![z2](https://github.com/PochikaevVV/GitLab-hw/blob/main/z2_3.png)
