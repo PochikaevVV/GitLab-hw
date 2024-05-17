@@ -31,3 +31,4 @@
 ![z2](https://github.com/PochikaevVV/GitLab-hw/blob/main/z2_1.png)
 ![z2](https://github.com/PochikaevVV/GitLab-hw/blob/main/z2_2.png)
 ![z2](https://github.com/PochikaevVV/GitLab-hw/blob/main/z2_3.png)
+![z2](https://github.com/PochikaevVV/GitLab-hw/blob/main/z2_4.png)
